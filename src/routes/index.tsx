@@ -10,6 +10,7 @@ export default function Home() {
       <p>
         qq:1131107655
       </p>
+      <img src="/public/images/01.jpg" alt="" srcset="" />
     </main>
   );
 }
