@@ -18,3 +18,7 @@
 .increment:active {
   background-color: rgba(68, 107, 158, 0.2);
 }
+img{
+  width: 700px;
+  height: 500px;
+}

@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <main>
       <Title>Hello World</Title>
-      <h1>Hello world!</h1>
+      <h1>我来秀恩爱啦~~~</h1>
       <Counter />
       <p>
         qq:1131107655
