@@ -7,9 +7,7 @@ export default function Home() {
       <Title>Hello World</Title>
       <h1>Hello world!</h1>
       <Counter />
-      <p>
-        qq:1131107655
-      </p>
+      <img src="../images/01.jpg" alt="" />
     </main>
   );
 }
