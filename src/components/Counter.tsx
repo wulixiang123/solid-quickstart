@@ -8,7 +8,7 @@ export default function Counter() {
     <button class="increment" onClick={() => setCount(count() + 1)}>
       Clicks: {count()}
     </button>
-    <img src={require(`../../public/images/01.jpg`)} alt="" />
+    <img src={require(`../images/01.jpg`)} alt="" />
     </>
   );
 }
